@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=WXTAeim_blE
+
+🔹 Question 1: What is Kubernetes, and what problem does it solve?
+🔹 Question 2: Explain the architecture of Kubernetes.
+🔹 Question 3: What is a  Pod in Kubernetes?
+🔹 Question 4: How does  Kubernetes ensure high availability     and scalability of applications?
+🔹 Question 5: What is a Kubernetes Service, and how does it work?
+🔹 Question 6: Explain the difference between a Deployment and a StatefulSet in Kubernetes.
+🔹 Question 7: What is a Kubernetes Namespace, and why is it useful?
+🔹 Question 8: Explain the concept of Kubernetes Persistent Volumes (PVs) and Persistent Volume Claims (PVCs).
+🔹 Question 9: What are Kubernetes Labels and Selectors, and how are they used?
+🔹 Question 10: Explain Kubernetes Rolling Updates and Rollbacks.
+🔹 Question 11: What is a Kubernetes ConfigMap, and how is it used?
+🔹 Question 12: What is the purpose of Kubernetes Ingress?
+🔹 Question 13: Explain the concept of Kubernetes Horizontal Pod Autoscaler (HPA).
+🔹 Question 14: How does Kubernetes handle container networking?
+🔹 Question 15: Explain Kubernetes RBAC (Role-Based Access Control) and its importance.
