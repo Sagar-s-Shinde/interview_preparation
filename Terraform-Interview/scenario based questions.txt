@@ -1,3 +1,23 @@
+https://www.youtube.com/watch?v=boPftMLsMzQ
+
+🔹 Question 1: What is Terraform, and how does it differ from other infrastructure as code tools?
+🔹 Question 2: Explain the concept of "declarative syntax" in Terraform and how it contributes to infrastructure management.
+🔹 Question 3: What are the key components of a Terraform configuration file?
+🔹 Question 4: How does Terraform maintain state, and why is state management important in infrastructure as code?
+🔹 Question 5: Describe the process of initializing a Terraform project. What does the terraform init command do?
+🔹 Question 6: What is a Terraform provider, and how does it facilitate interactions with different infrastructure platforms?
+🔹 Question 7: Explain the purpose of the terraform plan command. What information does it provide, and why is it valuable?
+🔹 Question 8: How does Terraform handle dependencies between resources, and what is the significance of the Terraform graph?
+🔹 Question 9: What is the difference between Terraform's "provisioners" and "remote-exec" provisioner?
+🔹 Question 10: How can you manage sensitive information, such as API keys, in Terraform configurations securely?
+🔹 Question 11: What are Terraform workspaces, and how can they be useful in managing multiple environments or configurations?
+🔹 Question 12: Explain the concept of "Terraform modules" and how they contribute to code reusability and maintainability.
+🔹 Question 13: How does Terraform handle updates or changes to existing infrastructure? What is the purpose of the terraform apply command?
+🔹 Question 14: What is the significance of Terraform providers' version constraints, and how can they be managed in a Terraform configuration?
+🔹 Question 15: Describe scenarios in which you might use Terraform "remote backends" and the advantages they bring to state management.
+
+https://www.youtube.com/watch?v=AZlE5R0Er_k
+
 🔹 Question 1: You have an existing infrastructure on AWS, and you need to use Terraform to manage it. How would you import these resources into your Terraform configuration?
 🔹 Question 2: You are working with multiple environments (e.g., dev, prod) and want to avoid duplicating code. How would you structure your Terraform configurations to achieve code reuse?
 🔹 Question 3: Describe a situation where you might need to use the terraform remote backend, and what advantages does it offer in state management?
