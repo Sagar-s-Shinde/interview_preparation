@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=uElKE0u0-XM
+
+🔹 Question 1: What is Jenkins, and what is its primary use?
+🔹 Question 2: Explain the difference between Jenkins and Hudson.
+🔹 Question 3: What is a Jenkins Pipeline?
+🔹 Question 4: How do you define a Jenkins Pipeline?
+🔹 Question 5: Explain the difference between scripted and declarative Jenkins Pipelines.
+🔹 Question 6: What is a Jenkins Agent (Node), and how does it work?
+🔹 Question 7: Explain the purpose of Jenkins plugins.
+🔹 Question 8: How do you secure Jenkins?
+🔹 Question 9: Explain the concept of Jenkins Job DSL.
+🔹 Question 10: What is the Jenkinsfile and how is it used?
+🔹 Question 11: Explain Jenkins build triggers and how they work.
+🔹 Question 12: How do you automate deployments using Jenkins?
+🔹 Question 13: What are Jenkins build artifacts, and how are they used?
+🔹 Question 14: Explain the concept of Jenkins pipeline stages.
+🔹 Question 15: How do you troubleshoot Jenkins build failures?
